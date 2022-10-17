@@ -1,7 +1,7 @@
 # ToDoList
 Time is the most precious thing that human being can come across with , helping others to manage their day with code is super so I put a ToDoList web app in this repo. Feel free to use it😍
 
-To use this ToDoList web app, scroll down to "Add a to-do" and click on the text box then write whatever it is you planned to do, then click enter. 
+To use this ToDoList web app, scroll down to "Add a to-do" and click on the text box then write whatever you planned to do, then click enter. 
 
 you can also specify time manually, for instance "Gym || 4:00-5:30" .
 
