@@ -5,8 +5,8 @@ To use this ToDoList web app, scroll down to "Add a to-do" and click on the text
 
 you can also specify time manually, for instance "Gym || 4:00-5:30" .
 
-When you completed a specific task click on the radio button , it will automatically strikethrough the task.
-when you want to delete a specific task click on the right side of your task then click the trash button.
+if you completed a specific task click on the radio button , it will automatically strikethrough the task.
+if you want to delete a specific task go to the right side of your task and click the trash button, then the task will be deleted.
 
 the task will not be lost even if you refresh the page ,
 the date by default is set to current date.
